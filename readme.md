@@ -14,7 +14,7 @@ A **command-line tool** for taking **concise course notes** from YouTube video s
   Split large transcripts into smaller chunks (by word count), making them easier to feed into GPT or other AI models with token limits.
 
 - **Minimal Dependencies**  
-  A single Python script (`clean_vtt.py`) plus `yt-dlp` (and optionally other libraries if you plan to do more advanced text processing).
+  A single Python script (`clean.py`) plus `yt-dlp` (and optionally other libraries if you plan to do more advanced text processing).
 
 ## Getting Started
 
