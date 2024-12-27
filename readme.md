@@ -38,4 +38,14 @@ python clean.py --folder /path/to/vtt_files
 ```
 ### 4. Next Steps: Summarize with GPT
 
+"You are a teaching assistant. The following text is a transcript from a YouTube lecture on [TOPIC]. 
+Your task is to produce comprehensive yet concise notes suitable for a course handout. 
+Focus on key concepts, examples, definitions, and any step-by-step processes mentioned. 
+Below is the transcript: 
+
+[Transcript chunk]
+
+Now, please generate a bullet-point summary that highlights the main points, important details, and potential exam questions."
+
+
 
